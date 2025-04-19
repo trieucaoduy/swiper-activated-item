@@ -6,7 +6,8 @@ export default defineNuxtConfig({
   devtools: { enabled: true },
   alias: {
     '@': './',
-    '@/pages': './pages'
+    '@/pages': './pages',
+    '@/repository': '/repository'
   },
   css: ['@/assets/css/main.css'],
   vite: {
@@ -14,4 +15,10 @@ export default defineNuxtConfig({
       tailwindcss(),
     ],
   },
+  runtimeConfig: {
+    public: {
+      apiBaseUrl: process.env.API_BASE_URL,
+      apiBaseUrlDev: process.env.API_BASE_URL_DEV
+    }
+  }
 })

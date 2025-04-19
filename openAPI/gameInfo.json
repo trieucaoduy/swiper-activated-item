@@ -1,0 +1,58 @@
+[
+  {
+    "title": "Dragon Battle Scene",
+    "image": "https://www.pcgamesn.com/wp-content/sites/pcgamesn/2022/11/best-free-pc-games.jpg",
+    "genre": "Fantasy",
+    "tags": ["dragons", "battle", "epic"],
+    "price": "1000"
+  },
+  {
+    "title": "Free Fire Squad",
+    "image": "https://www.boredpanda.com/blog/wp-content/uploads/2022/05/best-online-games-cover_800.png",
+    "genre": "Battle Royale",
+    "tags": ["action", "multiplayer", "shooter"],
+    "price": "1000"
+  },
+  {
+    "title": "Assassin's Creed Characters",
+    "image": "https://images.freecreatives.com/wp-content/uploads/2015/04/Video-Game-Desktop-Backgrounds-2.jpg",
+    "genre": "Action-Adventure",
+    "tags": ["stealth", "historical", "assassin"],
+    "price": "1000"
+  },
+  {
+    "title": "Epic Games Store Free Titles",
+    "image": "https://gamerdigest.com/wp-content/uploads/2023/02/free-game-2-2-23.jpg",
+    "genre": "Various",
+    "tags": ["free", "weekly", "store"],
+    "price": "1000"
+  },
+  {
+    "title": "Ghost Recon Online",
+    "image": "https://4.bp.blogspot.com/-BPiIbxtvi5M/T9GjjbsB_II/AAAAAAAAAOQ/7B2wSNaElTo/s1600/ghostrecon-online-free-game.jpg",
+    "genre": "Tactical Shooter",
+    "tags": ["military", "online", "strategy"],
+    "price": "1000"
+  },
+  {
+    "title": "Call of Duty Soldier",
+    "image": "https://cdn.wallpapersafari.com/21/77/Uc7GT5.jpg",
+    "genre": "First-Person Shooter",
+    "tags": ["war", "soldier", "fps"],
+    "price": "1000"
+  },
+  {
+    "title": "PUBG Squad",
+    "image": "https://getwallpapers.com/wallpaper/full/f/2/5/1444114-4k-games-wallpaper-3840x2160-for-hd.jpg",
+    "genre": "Battle Royale",
+    "tags": ["battle", "multiplayer", "survival"],
+    "price": "1000"
+  },
+  {
+    "title": "Gaming Controller",
+    "image": "https://img.freepik.com/premium-photo/cyberpunk-gaming-controller-gamepad-joystick-illustration_691560-5812.jpg",
+    "genre": "Arcade",
+    "tags": ["controller", "joystick", "gaming"],
+    "price": "1000"
+  }
+]

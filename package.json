@@ -4,7 +4,7 @@
   "type": "module",
   "scripts": {
     "build": "nuxt build",
-    "dev": "nuxt dev",
+    "dev": "nuxt dev --dotenv .env",
     "generate": "nuxt generate",
     "preview": "nuxt preview",
     "postinstall": "nuxt prepare"
@@ -17,7 +17,9 @@
     "vue-router": "^4.5.0"
   },
   "devDependencies": {
+    "@types/node": "^22.14.1",
     "autoprefixer": "^10.4.21",
+    "ofetch": "^1.4.1",
     "postcss": "^8.5.3",
     "tailwindcss": "^4.1.2"
   }
